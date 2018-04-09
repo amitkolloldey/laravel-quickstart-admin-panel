@@ -36,6 +36,45 @@
 {margin-top:20px;
 }
 
-body {
+
+/* Admin Styles */
+body#admin-page  {
    padding-top: 0px;
+}
+
+body#admin-page .dropdown-user {
+    height: auto
+}
+
+body#admin-page .navbar-default.sidebar,body#admin-page .navbar-default {
+    background: #007791;
+}
+body#admin-page .navbar-default {
+    border-bottom:1px solid #046f87;
+}
+body#admin-page #side-menu a {
+    color: #fff;
+}
+body#admin-page #side-menu a:hover {
+    color: #007791;
+}
+
+body#admin-page .navbar-default .navbar-brand {
+    color: #fff;
+}
+
+body#admin-page .sidebar ul li {
+  border-color: #046f87;
+}
+body#admin-page .sidebar ul li a.active {
+    background-color: none;
+}
+
+input.btn.btn-info {
+    background: #007791;
+    border:  none;
+    border-radius: 0;
+}
+body#admin-page .sidebar ul li a.active {
+    background-color: #055f72;
 }
