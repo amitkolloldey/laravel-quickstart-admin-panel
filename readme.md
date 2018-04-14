@@ -1,3 +1,8 @@
+<h1 style="text-transform:uppercase">laravel quickstart admin panel</h1>
+
+<h3>Preview:</h3>
+<img src="https://lh4.googleusercontent.com/3rr7wl4y_rx71Iq-E1cB7nUEYWcOq0ZaboXfmGyipm8Has_M5KfvCsA_pWSQE5wWdmH_1DPkJQHeEirjFiGN=w1366-h662-rw"/>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
